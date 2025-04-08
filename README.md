@@ -25,7 +25,7 @@ Enter Your Gift Card Information: On the page, you’ll be prompted to enter the
 Click ‘Check Balance’: Once you’ve entered the required information, click the ‘Check Balance’ button. Your remaining balance will be displayed on the screen.
 ‍
 
-This method is quick and convenient, allowing you to check your balance from anywhere at any time.
+This method is quick and convenient, allowing you to check your balance from anywhere at any time. 
 
 2. Using the Costco Mobile App
 If you prefer using your smartphone, the Costco mobile app is a great way to check your gift card balance on the go. Here’s how to do it:
